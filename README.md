@@ -1,2 +1,2 @@
 # hello-world
-just a basic test to familiarise with git
+This is just a basic test to familiarise myself with **git**. It doesn't hurt to do some self-education!
